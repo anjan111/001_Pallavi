@@ -1,0 +1,7 @@
+<root xmlns="https://defaultns.com/"
+        xmlns:a="https://a.com/">
+    <audience>
+        <id what="attribute">123</id>
+        <name>Shubham</name>
+    </audience>
+</root>
